@@ -1,4 +1,4 @@
-// DC2026 guide · retired service worker (brief call 51, withdrawn 18 Oct). Build: 18 Oct, 16:05 Beijing
+// DC2026 guide · retired service worker (brief call 51, withdrawn 18 Oct). Build: 19 Oct, 06:28 Beijing
 // The 18 Oct 15:59 build installed a service worker. A browser that still has it fetches this file when it checks
 // for an update: it clears its cache and unregisters, so pages load straight from GitHub Pages again. It never
 // touches localStorage, where stars and notes are. Keep it on the site until the guide is retired.
